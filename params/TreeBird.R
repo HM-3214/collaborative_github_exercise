@@ -4,13 +4,13 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <- 3
+sig2 <- 4.123124
 
 # e.g. "anas_krystallinus"
 species.name <- "TreeBird"
 
 # e.g. "red"
-color <- "deeppink1"
+color <- "blue4"
 
 # For list of colours available in R, see
 # https://github.com/RSE-Sheffield/collaborative_github_exercise/tree/master/assets/Rcolor.pdf
